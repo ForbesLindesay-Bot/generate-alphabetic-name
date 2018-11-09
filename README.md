@@ -41,3 +41,4 @@ console.log(generateAlphabeticNameFromNumber(hash(readFileSync(__filename, 'utf8
 ## License
 
 MIT
+
